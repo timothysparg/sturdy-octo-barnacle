@@ -48,3 +48,8 @@ Enter at your own risk.
 
 [TIP]
 It's possible to use Unicode glyphs as admonition icons.
+
+=== Examples
+
+[example]
+This is an example of an example block.
