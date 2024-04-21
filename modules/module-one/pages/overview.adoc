@@ -19,3 +19,32 @@ To create a cross reference *to the latest version of this page from a page in C
 === Target a specific version of this page
 
 To create a cross reference *to version 1.0 of this page from a page in Component A*, the xref syntax would be `\xref:1.0@component-b:module-one:overview.adoc[]`.
+
+=== Testing admonitions
+
+[NOTE]
+A note
+
+[TIP]
+A tip
+
+[CAUTION]
+caution
+
+[IMPORTANT]
+.Feeding the Werewolves
+====
+While werewolves are hardy community members, keep in mind the following dietary concerns:
+
+. They are allergic to cinnamon.
+. More than two glasses of orange juice in 24 hours makes them howl in harmony with alarms and sirens.
+. Celery makes them sad.
+====
+
+WARNING: Wolpertingers are known to nest in server racks.
+Enter at your own risk.
+
+:tip-caption: 💡
+
+[TIP]
+It's possible to use Unicode glyphs as admonition icons.
